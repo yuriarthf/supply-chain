@@ -1,6 +1,6 @@
-## Network: Rinkeby
+**Network: Rinkeby**
 
-## network_id: 4
+**network_id: 4**
 
 ## Deployed Contracts:
 
